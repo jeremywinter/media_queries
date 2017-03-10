@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+/*
+@media screen and (min-width: 100px) {	
+	 >= 100px === min-width
+		default styles targets mobile first
+		style changes when the screen gets larger 
+}
+@media screen and (max-width: 500px) {	
+	  <= 500px === max-width 
+		default styles targets desktops first
+		style changes when the screen gets smaller 
+}
+@media screen and (min-width:100px) and (max-width:500px) {
+	targeting devices with a width between 100px and 200px - nothing more, nothing less.
+}*/
+
+
